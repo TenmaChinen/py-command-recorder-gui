@@ -32,7 +32,7 @@ The project is made using MVC ( Model View Controller ) architecture and the sam
 - Using same idea as React about create components, it makes easier to organize the inner features of each new component, keeping all the logic inside the component class rather than being present in the **View**.
 And since the **Controller** should manage how the View behaves, each component includes a way to control their behaviour just managing what value is returned from their events callback.
 
-- By using the NPZ format from Numpy
+- By using the NPZ format from Numpy, I learned more about numeric data types to store audio data more efficiently in other fields aswell.
 
 
 ## Future Work
